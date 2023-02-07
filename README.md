@@ -1,4 +1,4 @@
-## 👋 Olá, meu nome é <strong>{Lucas Alcantara}!</strong>
+## 👋 Olá, meu nome é <strong>Lucas Alcantara</strong>
 >🔭 Estudante de Desenvolvimento de Softwares na @Cubos Academy.
 
 💬 Disponível para trabalhar!
