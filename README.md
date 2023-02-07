@@ -1,8 +1,10 @@
 ## 👋 Olá, meu nome é <strong>Lucas Alcantara</strong>
 >🔭 Estudante de Desenvolvimento de Softwares na @Cubos Academy.
 
-💬 Disponível para trabalhar!
-
+💬 Informações de Contato:
+[![Linkedin: Lucas Alcantara](https://img.shields.io/badge/-Lucas Alcantara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lcaalcantara/)](https://www.linkedin.com/in/lcaalcantara/)
+[![Gmail Badge](https://img.shields.io/badge/-lcaalcantara@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lcaalcantara@gmail.com)](mailto:lcaalcantara@gmail.com)
+[![GitHub Lucas Alcantara]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/lcaalcantara/)
 ----
 
 #### 🚀 Minhas Skills
