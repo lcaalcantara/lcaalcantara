@@ -1,5 +1,5 @@
 ## 👋 Olá, meu nome é <strong>Lucas Alcantara</strong>
->🔭 Estudante de Desenvolvimento de Softwares na @Cubos Academy.
+>🔭 Desenvolvedor de Softwares Fullstack.
 
 
 #### 💬 Informações de Contato:
